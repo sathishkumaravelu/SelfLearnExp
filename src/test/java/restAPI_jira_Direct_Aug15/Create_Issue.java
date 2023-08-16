@@ -1,4 +1,4 @@
-package jira_Direct_Aug15;
+package restAPI_jira_Direct_Aug15;
 
 import org.testng.annotations.Test;
 
