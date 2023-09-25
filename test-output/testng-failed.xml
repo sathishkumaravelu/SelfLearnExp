@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="learn_Selenium.Learning_SelectClass">
+      <class name="leetCode_Practice.ArithmeticProgression">
         <methods>
-          <include name="learnDropDown"/>
+          <include name="testData"/>
         </methods>
-      </class> <!-- learn_Selenium.Learning_SelectClass -->
+      </class> <!-- leetCode_Practice.ArithmeticProgression -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
