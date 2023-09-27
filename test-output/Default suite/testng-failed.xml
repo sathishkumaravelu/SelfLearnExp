@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="leetCode_Practice.ArithmeticProgression">
+      <class name="leetCode_Practice.ArrayProduct_">
         <methods>
           <include name="testData"/>
         </methods>
-      </class> <!-- leetCode_Practice.ArithmeticProgression -->
+      </class> <!-- leetCode_Practice.ArrayProduct_ -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
