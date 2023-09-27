@@ -21,7 +21,7 @@ public class ArrayProduct_ {
 
 	private int[] arrayProduct_(int[] values) {
 		int left = 0, pointer = values.length;
-		int totalValue = 0;
+		int totalValue = 1;
 		int[] output = new int[pointer];
 		while(left<pointer) {
 			totalValue*=values[left++];

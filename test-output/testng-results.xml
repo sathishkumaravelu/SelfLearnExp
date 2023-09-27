@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-27T10:43:07 IST" name="Default suite" finished-at="2023-09-27T10:43:07 IST" duration-ms="54">
+  <suite started-at="2023-09-27T20:15:52 IST" name="Default suite" finished-at="2023-09-27T20:15:52 IST" duration-ms="54">
     <groups>
     </groups>
-    <test started-at="2023-09-27T10:43:07 IST" name="Default test" finished-at="2023-09-27T10:43:07 IST" duration-ms="54">
-      <class name="leetCode_Practice.ArrayProduct_">
-        <test-method signature="testData()[pri:0, instance:leetCode_Practice.ArrayProduct_@f6efaab]" started-at="2023-09-27T10:43:07 IST" name="testData" finished-at="2023-09-27T10:43:07 IST" duration-ms="12" status="PASS">
+    <test started-at="2023-09-27T20:15:52 IST" name="Default test" finished-at="2023-09-27T20:15:52 IST" duration-ms="54">
+      <class name="leetCode_Practice.ReverseEveryWord">
+        <test-method signature="testData()[pri:0, instance:leetCode_Practice.ReverseEveryWord@3c19aaa5]" started-at="2023-09-27T20:15:52 IST" name="testData" finished-at="2023-09-27T20:15:52 IST" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testData -->
-      </class> <!-- leetCode_Practice.ArrayProduct_ -->
+      </class> <!-- leetCode_Practice.ReverseEveryWord -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
