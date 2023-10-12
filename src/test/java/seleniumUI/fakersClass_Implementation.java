@@ -1,5 +1,6 @@
 package seleniumUI;
 
+import java.util.HashSet;
 import java.util.concurrent.TimeUnit;
 
 import org.junit.Test;
@@ -68,7 +69,6 @@ public class fakersClass_Implementation {
 		String actualTitle = driver.getTitle();
 
 		Assert.assertEquals("View Lead | opentaps CRM", actualTitle);
-
 		driver.quit();
 
 	}
