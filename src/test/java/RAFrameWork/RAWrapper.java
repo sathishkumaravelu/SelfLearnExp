@@ -17,10 +17,10 @@ import static Owner.ApplicationPropLoader.*;
 
 public class RAWrapper extends RAmethodsImpl {
 
-  /*  public void loadProperty(){
+
         AppProperties obj = new ApplicationPropLoader.app;
-    }
-*/
+
+
     public static final String endpoint = "https://restful-booker.herokuapp.com";
 
     private Map<String, String> setContentTypeHeader() {
