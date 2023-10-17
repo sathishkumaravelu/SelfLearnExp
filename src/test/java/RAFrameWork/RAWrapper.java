@@ -18,7 +18,7 @@ import static Owner.ApplicationPropLoader.*;
 public class RAWrapper extends RAmethodsImpl {
 
 
-        AppProperties obj = new ApplicationPropLoader.app;
+        //AppProperties obj = new ApplicationPropLoader.app;
 
 
     public static final String endpoint = "https://restful-booker.herokuapp.com";
